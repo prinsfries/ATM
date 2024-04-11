@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "testingUI/1.0.0": {
+        "dependencies": {
+          "ATMBusinessServices": "1.0.0",
+          "ATMDataServices": "1.0.0",
+          "ATMModel": "1.0.0"
+        },
+        "runtime": {
+          "testingUI.dll": {}
+        }
+      },
+      "ATMBusinessServices/1.0.0": {
+        "dependencies": {
+          "ATMDataServices": "1.0.0"
+        },
+        "runtime": {
+          "ATMBusinessServices.dll": {}
+        }
+      },
+      "ATMDataServices/1.0.0": {
+        "dependencies": {
+          "ATMModel": "1.0.0"
+        },
+        "runtime": {
+          "ATMDataServices.dll": {}
+        }
+      },
+      "ATMModel/1.0.0": {
+        "runtime": {
+          "ATMModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "testingUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ATMBusinessServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ATMDataServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ATMModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
