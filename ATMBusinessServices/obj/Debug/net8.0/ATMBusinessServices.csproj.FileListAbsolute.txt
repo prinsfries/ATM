@@ -1,0 +1,17 @@
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMBusinessServices\bin\Debug\net8.0\ATMBusinessServices.deps.json
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMBusinessServices\bin\Debug\net8.0\ATMBusinessServices.dll
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMBusinessServices\bin\Debug\net8.0\ATMBusinessServices.pdb
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMBusinessServices\bin\Debug\net8.0\ATMDataServices.dll
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMBusinessServices\bin\Debug\net8.0\ATMModel.dll
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMBusinessServices\bin\Debug\net8.0\ATMDataServices.pdb
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMBusinessServices\bin\Debug\net8.0\ATMModel.pdb
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMBusinessServices\obj\Debug\net8.0\ATMBusinessServices.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMBusinessServices\obj\Debug\net8.0\ATMBusinessServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMBusinessServices\obj\Debug\net8.0\ATMBusinessServices.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMBusinessServices\obj\Debug\net8.0\ATMBusinessServices.AssemblyInfo.cs
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMBusinessServices\obj\Debug\net8.0\ATMBusinessServices.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMBusinessServices\obj\Debug\net8.0\ATMBusin.70C6A961.Up2Date
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMBusinessServices\obj\Debug\net8.0\ATMBusinessServices.dll
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMBusinessServices\obj\Debug\net8.0\refint\ATMBusinessServices.dll
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMBusinessServices\obj\Debug\net8.0\ATMBusinessServices.pdb
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMBusinessServices\obj\Debug\net8.0\ref\ATMBusinessServices.dll
