@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ATMDataServices/1.0.0": {
+        "dependencies": {
+          "ATMModel": "1.0.0"
+        },
+        "runtime": {
+          "ATMDataServices.dll": {}
+        }
+      },
+      "ATMModel/1.0.0": {
+        "runtime": {
+          "ATMModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ATMDataServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ATMModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

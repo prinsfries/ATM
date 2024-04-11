@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMDataServices\bin\Debug\net8.0\ATMDataServices.deps.json
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMDataServices\bin\Debug\net8.0\ATMDataServices.dll
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMDataServices\bin\Debug\net8.0\ATMDataServices.pdb
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMDataServices\bin\Debug\net8.0\ATMModel.dll
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMDataServices\bin\Debug\net8.0\ATMModel.pdb
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMDataServices\obj\Debug\net8.0\ATMDataServices.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMDataServices\obj\Debug\net8.0\ATMDataServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMDataServices\obj\Debug\net8.0\ATMDataServices.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMDataServices\obj\Debug\net8.0\ATMDataServices.AssemblyInfo.cs
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMDataServices\obj\Debug\net8.0\ATMDataServices.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMDataServices\obj\Debug\net8.0\ATMDataS.1299F802.Up2Date
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMDataServices\obj\Debug\net8.0\ATMDataServices.dll
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMDataServices\obj\Debug\net8.0\refint\ATMDataServices.dll
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMDataServices\obj\Debug\net8.0\ATMDataServices.pdb
+C:\Users\Admin\Downloads\DOCUMENTS\COLLEGE CODING\C#\ATMDataServices\obj\Debug\net8.0\ref\ATMDataServices.dll
